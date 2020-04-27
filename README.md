@@ -5,9 +5,9 @@ A simple Clue Scroll API for Old School RuneScape
 Place `index.php` in your webserver
 
 Enter your webserver with following parameters:
-`http://<webserver>/?difficulty=master`
+`http://<webserver>/?difficulty=<tier>`
 
-The difficulty of the clue scroll reward is defined in the `difficulty` parameter
+The tier of the clue scroll reward is defined in the `difficulty` parameter
 
 Only `beginner`, `easy`, `medium`, `hard`, `elite` and `master` are accepted
 
